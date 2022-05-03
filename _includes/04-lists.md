@@ -11,11 +11,13 @@
   - Superforecasting, by Philip Tetlock and Dan Gardner
   - The Dictator's Handbook, by Bruce Bueno de Mesquita and Alastair Smith
   - The Anthropocene Reviewed, by John Green
+
 ## Youtube
 - CGP Grey
 - Every Frame a Painting
 - Datto
 - The Trash Taste Podcast
+
 ## Music
 - Dreamcatcher
 - Carly Rae Jepsen
