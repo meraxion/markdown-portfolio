@@ -1,2 +1,1 @@
-# Header for my portfolio
-## Stian Grønlund
+# Stian Grønlund
