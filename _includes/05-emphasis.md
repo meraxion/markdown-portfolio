@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can speak **two** languages fluently, Norwegian and English, have a real *rusty* knowledge of french, and am at a **beginner** level in Mandarin Chinese.  
