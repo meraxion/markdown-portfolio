@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Snowy path, with trees creating a tunnel feeling](https://i.imgur.com/n6vsH9R.jpg)
