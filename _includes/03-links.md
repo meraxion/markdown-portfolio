@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+# Social media
+- [Twitter](https://twitter.com/Meraxion) 
+- [Github](https://github.com/meraxion)
